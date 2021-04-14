@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Hello World</title>
+<title>WELCOME TO WAISTBAGS_KE!!</title>
 </head>
 
 <body>
